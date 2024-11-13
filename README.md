@@ -1,4 +1,9 @@
-## Hi there 👋
+## Greetings! 👋
+A Sacred Heart High School <a href="https://shh.ocsb.ca">Sacred Heart High School</a> student
+
+<h2> ✍ Programming Languages that I am learning </h2>
+<p> <a href="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">Html</a> <a href="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">Php</a> <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">Php</a></p>
+
 
 <!--
 **Sam-Charalampidis/Sam-Charalampidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
