@@ -1,5 +1,5 @@
 ## Greetings! 👋
-A Sacred Heart High School <a href="https://shh.ocsb.ca">Sacred Heart High School</a> student
+A <a href="https://shh.ocsb.ca">Sacred Heart High School</a> student
 
 <h2> ✍ Programming Languages that I am learning </h2>
 <p>
