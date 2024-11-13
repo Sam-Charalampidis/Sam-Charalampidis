@@ -2,7 +2,12 @@
 A Sacred Heart High School <a href="https://shh.ocsb.ca">Sacred Heart High School</a> student
 
 <h2> ✍ Programming Languages that I am learning </h2>
-<p> <a href="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">Html</a> <a href="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">Php</a> <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">Php</a></p>
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue">
+
+</p>
 
 
 <!--
